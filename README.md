@@ -1,2 +1,2 @@
 # Smithing-Perks-Overhaul-PL
-Smithing Perks Overhaul  - spolszcznie.
+Smithing Perks Overhaul  - spolszcznie dla LE wesja custom perks 1. 
